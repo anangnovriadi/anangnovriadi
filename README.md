@@ -1,4 +1,6 @@
-## Hi! My name is Anang 👋
+## Hi there, I'm Anang 👋
+
+✉️ How to reach me: anangnov99@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anangnovriadi&hide_progress=true&theme=tokyonight)
 

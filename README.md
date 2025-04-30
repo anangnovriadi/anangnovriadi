@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Anang
+## Hi there 👋 I'm Anang
 
 ✉️ How to reach me: anangnov99@gmail.com
 
